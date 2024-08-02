@@ -2,4 +2,4 @@ streamlit
 numpy
 tensorflow
 h5py
-nltk
+
